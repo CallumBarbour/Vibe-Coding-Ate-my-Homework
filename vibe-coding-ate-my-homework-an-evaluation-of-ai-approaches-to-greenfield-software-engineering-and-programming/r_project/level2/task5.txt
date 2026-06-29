@@ -1,0 +1,1 @@
+Given a string made up of 12 random letters, sort the characters alphabetically and display the result.

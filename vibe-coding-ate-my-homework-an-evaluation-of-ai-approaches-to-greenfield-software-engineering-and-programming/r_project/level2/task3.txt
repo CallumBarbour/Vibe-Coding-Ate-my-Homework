@@ -1,0 +1,1 @@
+Create an Excel spreadsheet called 'test' if one does not already exist and write 'Excel sucks' to cell A1.

@@ -1,0 +1,1 @@
+Import the matplotlib.pyplot and numpy packages and use them to plot (using pyplot's plot() function) a graph of y=x, from 0 to 5 on both axes. Use show() to save the resulting graph.

@@ -1,0 +1,11 @@
+level1: Surface level requests.
+level2: Requests for specific features and/or implementation expressed using vague or common language.
+level3: Requests for specific features and/or implementation applying low-level jargon.
+
+Python Task goals:
+Pre-emptive prompt: "Write any python code in future prompts file script.py"
+Task 1: To find the highest value from an array of random numbers.
+Task 2: Creating a straight line graph (y=x).
+Task 3: Create an excel file and write "Excel sucks" in cell A1.
+Task 4: Find a specific number in an ordered list which may or may not contain said number.
+Task 5: Arrange a string composing of random letters in alphabetical order.

@@ -1,0 +1,1 @@
+Print an array of 10 unordered numbers which are each randomly generated from 0 to 100 via the randint() method, courtesy of the random package. Search the array using a for loop and record the value of the highest number found. Take two lines and print this value.

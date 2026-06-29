@@ -1,0 +1,1 @@
+Plot and save a straight line graph where y=x with both axes ranging from 0 to 5.

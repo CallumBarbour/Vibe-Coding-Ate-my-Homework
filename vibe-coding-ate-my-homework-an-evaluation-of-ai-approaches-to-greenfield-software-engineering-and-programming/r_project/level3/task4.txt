@@ -1,0 +1,1 @@
+Search for numbers 1, 5, 10, 12 within a sorted list of all integers from 1 to 10. Use bisect.bisect_left(arr, x) to get the insertion point index for each value to search for, and if the value at that index matches the value, print 'found'. Otherwise, print 'not found.'

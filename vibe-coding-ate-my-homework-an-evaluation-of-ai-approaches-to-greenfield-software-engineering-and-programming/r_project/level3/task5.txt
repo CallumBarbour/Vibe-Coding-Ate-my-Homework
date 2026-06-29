@@ -1,0 +1,1 @@
+Using Python, generate a string of 12 random letters with the random library, then sort the letters into alphabetical order using the sorted() function and combine them back into a single sequence using join(). Maintain true alphabetical order (case insensitive), only prioritising uppercase for equivalent letters. Finally, output the resulting string.

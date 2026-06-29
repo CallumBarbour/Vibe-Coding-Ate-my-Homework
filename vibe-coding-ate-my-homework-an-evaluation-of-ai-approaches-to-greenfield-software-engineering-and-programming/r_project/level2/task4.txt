@@ -1,0 +1,1 @@
+Search through a sorted list of numbers 1 to 10 to see if numbers 1, 5, 10 and 12 exist, indicating whether or not they were found for each number.

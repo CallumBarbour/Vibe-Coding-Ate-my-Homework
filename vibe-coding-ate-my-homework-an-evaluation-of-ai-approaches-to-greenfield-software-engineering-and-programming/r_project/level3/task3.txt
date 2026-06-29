@@ -1,0 +1,1 @@
+Through the use of the pathlib package, create file path reference for Excel file 'test.xlsx.' Import the Workbook and load_workbook functions from the openpyxl package - using them to create the Excel file in question if it does not already exist and write 'Excel sucks' in cell A1. Save the changes.

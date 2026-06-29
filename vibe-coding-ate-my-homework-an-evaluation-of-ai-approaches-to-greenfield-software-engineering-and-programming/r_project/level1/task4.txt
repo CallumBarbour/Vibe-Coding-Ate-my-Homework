@@ -1,0 +1,1 @@
+Given an ordered list of numbers 1 to 10, check whether numbers 1, 5 10 and 12 are in the list.

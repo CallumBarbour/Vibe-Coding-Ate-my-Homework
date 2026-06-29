@@ -1,0 +1,1 @@
+Display a list of 10 numbers to be randomly generated, search for the maximum number in the list and present it underneath the list.
